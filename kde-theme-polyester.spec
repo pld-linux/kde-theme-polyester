@@ -4,7 +4,7 @@ Summary:	KDE theme - %{_name}
 Summary(pl.UTF-8):	Motyw do KDE - %{_name}
 Name:		kde-theme-%{_name}
 Version:	1.0
-Release:	0.5
+Release:	1
 License:	GPL
 Group:		Themes
 Source0:	http://www.notmart.org/files/polyester-%{version}.tar.bz2
