@@ -33,8 +33,8 @@ Polyester is a style and kwin decoration both aimed to be a good
 balance between eye candy and simplicity.
 
 %description -n kde-style-%{_name} -l pl.UTF-8
-Styl Polyester to zestaw dekoracji dla kontrolek i okien stworzony tak,
-aby zachować równowagę pomiędzy prostotą i dobrym wyglądem.
+Styl Polyester to zestaw dekoracji dla kontrolek i okien stworzony
+tak, aby zachować równowagę pomiędzy prostotą i dobrym wyglądem.
 
 %package -n kde-colorscheme-%{_name}
 Summary:	Color scheme for KDE style - %{_name}
