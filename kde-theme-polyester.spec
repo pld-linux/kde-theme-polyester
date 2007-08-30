@@ -3,12 +3,12 @@
 Summary:	KDE theme - %{_name}
 Summary(pl.UTF-8):	Motyw do KDE - %{_name}
 Name:		kde-theme-%{_name}
-Version:	1.0.1
+Version:	1.0.2
 Release:	1
 License:	GPL
 Group:		Themes
 Source0:	http://www.notmart.org/files/polyester-%{version}.tar.bz2
-# Source0-md5:	ad446cbaa846f660670315bad7c07dc0
+# Source0-md5:	6b85333e774567e69c741b35a54a4df5
 URL:		http://www.kde-look.org/content/show.php?content=27968
 BuildRequires:	autoconf
 BuildRequires:	automake
