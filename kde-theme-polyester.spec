@@ -12,6 +12,7 @@ Source0:	http://www.notmart.org/files/polyester-%{version}.tar.bz2
 URL:		http://www.kde-look.org/content/show.php?content=27968
 BuildRequires:	autoconf
 BuildRequires:	automake
+BuildRequires:	kdebase-devel >= 9:3.5.0
 BuildRequires:	kdelibs-devel >= 9:3.5.0
 BuildRequires:	rpmbuild(macros) >= 1.129
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
